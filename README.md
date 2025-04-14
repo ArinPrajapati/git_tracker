@@ -94,7 +94,3 @@ Feel free to fork and improve the project. Pull requests, bug reports, and featu
 ## License
 
 This project is available under the [MIT License](LICENSE).
-
----
-
-This README should provide enough context for users to understand, use, and customize the Git Commit & Project Explorer tool. Adjust details (like repository URL or license) as needed for your own project. Enjoy automating your Git workflow!
