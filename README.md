@@ -1,7 +1,5 @@
----
 
-# Git Commit & Project Explorer
-
+# Git Tracker
 Git Commit & Project Explorer is a Python-based automation tool that helps you manage and commit changes in your development projects. It scans a specified bootcamp directory for projects, categorizing them as:
 
 - **Updated:** Git repositories that are clean (no pending changes).
