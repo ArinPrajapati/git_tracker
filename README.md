@@ -1,5 +1,3 @@
-Below is an example of a README file for your Git Commit & Project Explorer project:
-
 ---
 
 # Git Commit & Project Explorer
